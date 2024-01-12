@@ -1,3 +1,3 @@
-# GSB-544
+# Work Portfolio
 
-Github Repository for GSB 544 - Computing and Machine Learning
+Github Repository showcasing my portfolio of work in the fields of Data Science, Statistical Analysis, and Econometrics
